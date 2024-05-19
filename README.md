@@ -2,7 +2,7 @@
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
 - Carlos Andrés    [GitHub Andres](https://github.com/AndresPJ09)
-- Heyder Santiago 🧑🏻‍💻 [GitHub Santiago](https://github.com/Santiagorodriguezgalviz)
+- Heyder Santiago 🧑🏻‍💻 [GitHub Santiago](https://github.com/Santiagorodriguezgalviz) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 - JohnCorredor   [GitHub Jonh](https://github.com/jhonnCorredor)
 
 ## Introducción 🚀
