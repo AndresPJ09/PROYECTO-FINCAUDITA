@@ -34,5 +34,5 @@ La elección de la metodología Scrum para el desarrollo del software Routine Ex
 ## Estructura del Repositorio 📁
 
 - [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/d590dac2dcbbbc15d3d70c2417a4b587538e6077/ROUTINE%20EXPRESS/Anteproyecto)
-
+- [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/5a50e1d17eddbabea5af0bf66a126d658e807a2b/ROUTINE%20EXPRESS/Diagramas)
 
