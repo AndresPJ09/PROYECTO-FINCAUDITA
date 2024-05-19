@@ -2,7 +2,7 @@
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
 - Carlos Andrés 👨‍💼
-- Heyder Santiago 👨‍💼
+- Heyder Santiago (https://github.com/Santiagorodriguezgalviz))
 - Jhon Corredor 👨‍💼
 
 ## Introducción 🚀
