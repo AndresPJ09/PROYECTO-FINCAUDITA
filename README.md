@@ -36,6 +36,6 @@ La elección de la metodología Scrum para el desarrollo del software Routine Ex
 - [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/d590dac2dcbbbc15d3d70c2417a4b587538e6077/ROUTINE%20EXPRESS/Anteproyecto)
 - [Diagramas](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/5a50e1d17eddbabea5af0bf66a126d658e807a2b/ROUTINE%20EXPRESS/Diagramas)
 - [Documento de arquitectura del sistema de información](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/5a50e1d17eddbabea5af0bf66a126d658e807a2b/ROUTINE%20EXPRESS/Documento%20de%20arquitectura%20del%20sistema%20de%20informaci%C3%B3n)
-
+- [Documento de requerimientos (SRS)](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/aaa128d8a0efbd716a869e2a8e570fb72e567c7b/ROUTINE%20EXPRESS/Documento%20de%20requerimientos%20(SRS)/Documento%20de%20requerimientos%20(SRS))
 
 
