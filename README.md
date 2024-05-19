@@ -1,7 +1,7 @@
 # PROYECTO-ROUTINE-EXPRESS
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
-- Carlos Andrés    [GitHub Andres](https://github.com/AndresPJ09)
+- Carlos Andrés    [GitHub Andres](https://github.com/AndresPJ09) :trollface:
 - Heyder Santiago  [GitHub Santiago](https://github.com/Santiagorodriguezgalviz) :octocat:
 - John Corredor    [GitHub John](https://github.com/jhonnCorredor) :shipit:
 ## Introducción 🚀
