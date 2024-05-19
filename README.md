@@ -2,7 +2,8 @@
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
 - Carlos Andrés 👨‍💼
-- Heyder Santiago (https://github.com/Santiagorodriguezgalviz))
+- Heyder Santiago ![image](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/assets/130188551/6aae5b90-7880-4bf2-a14a-a044f8cc993b)
+ (https://github.com/Santiagorodriguezgalviz))
 - Jhon Corredor 👨‍💼
 
 ## Introducción 🚀
