@@ -1,10 +1,9 @@
 # PROYECTO-ROUTINE-EXPRESS
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
-- Carlos Andrés 👨‍💼
-- Heyder Santiago ![image](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/assets/130188551/6aae5b90-7880-4bf2-a14a-a044f8cc993b)
- (https://github.com/Santiagorodriguezgalviz))
-- Jhon Corredor 👨‍💼
+- Carlos Andrés  https://github.com/AndresPJ09
+- Heyder Santiago (https://github.com/Santiagorodriguezgalviz))
+- Jhon Corredor  https://github.com/jhonnCorredor
 
 ## Introducción 🚀
 En este documento encontrarás una breve descripción de nuestro software Routine Express, cuyo propósito es proporcionar información detallada sobre las funciones y características que ofrece. Se trata de una solución innovadora diseñada específicamente para abordar la administración del tiempo en la vida cotidiana, ofreciendo al usuario soluciones avanzadas. Nos comprometemos a garantizar la calidad y eficiencia del software, brindando una experiencia óptima.
