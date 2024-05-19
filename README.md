@@ -1,4 +1,4 @@
-# PROYECTO ROUTINE EXPRESS 🏃🏻(:clock10:)
+# PROYECTO ROUTINE EXPRESS 🏃🏻
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
 - Carlos Andrés    [GitHub Andres](https://github.com/AndresPJ09) :trollface:
