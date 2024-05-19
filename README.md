@@ -1,9 +1,9 @@
 # PROYECTO-ROUTINE-EXPRESS
 
 👩‍💻👨‍💻 **Equipo de Desarrollo**
-- Carlos Andrés    [GitHub Santiago](https://github.com/AndresPJ09)
+- Carlos Andrés    [GitHub Andres](https://github.com/AndresPJ09)
 - Heyder Santiago 🧑🏻‍💻 [GitHub Santiago](https://github.com/Santiagorodriguezgalviz)
-- Jhon Corredor   [GitHub Santiago](https://github.com/jhonnCorredor)
+- JohnCorredor   [GitHub Jonh(https://github.com/jhonnCorredor)
 
 ## Introducción 🚀
 En este documento encontrarás una breve descripción de nuestro software Routine Express, cuyo propósito es proporcionar información detallada sobre las funciones y características que ofrece. Se trata de una solución innovadora diseñada específicamente para abordar la administración del tiempo en la vida cotidiana, ofreciendo al usuario soluciones avanzadas. Nos comprometemos a garantizar la calidad y eficiencia del software, brindando una experiencia óptima.
@@ -35,5 +35,6 @@ La elección de la metodología Scrum para el desarrollo del software Routine Ex
 
 - [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/d590dac2dcbbbc15d3d70c2417a4b587538e6077/ROUTINE%20EXPRESS/Anteproyecto)
 - [Diagramas](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/5a50e1d17eddbabea5af0bf66a126d658e807a2b/ROUTINE%20EXPRESS/Diagramas)
-- 
+- [Documento de arquitectura del sistema de información](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/5a50e1d17eddbabea5af0bf66a126d658e807a2b/ROUTINE%20EXPRESS/Diagramas)
 
+](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/45c59c508e404cf7abd022d3ed864a8158f97400/ROUTINE%20EXPRESS/Documento%20de%20arquitectura%20del%20sistema%20de%20informaci%C3%B3n)
