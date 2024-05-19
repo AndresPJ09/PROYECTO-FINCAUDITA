@@ -31,7 +31,8 @@ La elección de la metodología Scrum para el desarrollo del software Routine Ex
 - Enfoque en el Cliente: Prioriza las necesidades del cliente a través de la colaboración estrecha y la retroalimentación continua.
 - Mejora Continua: Fomenta la reflexión y la adaptación a través de las reuniones retrospectivas, permitiendo optimizar el proceso de desarrollo con el tiempo.
 
- ## Estructura del Repositorio 📁
+## Estructura del Repositorio 📁
 
-- [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/d590dac2dcbbbc15d3d70c2417a4b587538e6077/ROUTINE%20EXPRESS/C%C3%B3digo%20Fuente)
+- [Anteproyecto](https://github.com/AndresPJ09/PROYECTO-ROUTINE-EXPRESS/tree/d590dac2dcbbbc15d3d70c2417a4b587538e6077/ROUTINE%20EXPRESS/Anteproyecto)
+
 
